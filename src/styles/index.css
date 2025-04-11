@@ -9,3 +9,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.nav-color {
+    background-color: #4c1d6d;
+   /* height: 100px;    */
+}
+
+.text-nav-dec {
+   /* color: white; */
+    font-size: 21px;
+    font-family: sans-serif;
+}
