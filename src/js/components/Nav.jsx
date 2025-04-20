@@ -12,7 +12,7 @@ export const Nav = () => {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mx-auto gap-5 mb-2 mb-lg-0">
                         <li className="nav-item">
-                            <a className="nav-link text-light text-nav-dec" aria-current="page" href="#">Planes</a>
+                            <a className="nav-link text-light text-nav-dec" aria-current="page" href="#">Planes Empresas</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link text-light text-nav-dec" aria-current="page" href="#">Equipos</a>
