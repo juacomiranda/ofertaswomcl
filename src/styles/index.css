@@ -9,6 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+body {
+    font-family: 'Poppins', sans-serif;
+}
 
 .nav-color {
     background-color: #4c1d6d;
@@ -24,4 +27,16 @@
 footer {
     background-color:#4c1d6d;
     color: white;
+}
+
+.color_wom1 {
+    color: #4c1d6d;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.color_wom2 {
+    color: #e52170;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
 }

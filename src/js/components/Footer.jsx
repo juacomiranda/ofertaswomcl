@@ -4,12 +4,14 @@ export const Footer = () => {
     return (
         <footer className="py-5 mt-4">
             <div className="container d-flex justify-content-center align-items-center">
-                <p className="my-0">Chickens</p>
+                <p className="my-0">Chickens Wom</p>
                 <small className="text-white-50">&copy; Todos los derechos reservados.</small>
             </div>
             <ul className="nav col-md-4 justify-contente-end d-flex">
                 <li className="ms-3">
-                    <a href="#"></a>
+                    <a href="#" aria-label="Instagram">
+                        <svg className="bi" ></svg>
+                    </a>
                 </li>
                 <li className="ms-3"></li>
             </ul>
